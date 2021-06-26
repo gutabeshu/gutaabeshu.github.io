@@ -1,0 +1,4 @@
+[submodule "cheginit.github.io"]
+	path = cheginit.github.io
+	url = git@github.com:cheginit/cheginit.github.io.git
+    branch = gh-pages
