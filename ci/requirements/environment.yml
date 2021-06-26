@@ -1,0 +1,30 @@
+name: gh-pages
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.8
+
+  - jupyter-book
+  - python-dateutil
+
+  # dev deps
+  - codespell
+  - pre-commit
+  - psutil
+  - pytest
+  - pytest-clarity
+  - pytest-sugar
+  - pytest-xdist
+
+  # IDE deps
+  - jupyterlab
+  - jupyterlab_widgets
+  - ipywidgets
+  - nb_black
+
+  - pip
+  - pip:
+    - nbmake
+    - ghp-import
+

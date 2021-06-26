@@ -1,0 +1,34 @@
+name: web
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.8
+
+  - jupyter-book
+  - cookiecutter
+
+  # dev deps
+  - codespell
+  - psutil
+  - pytest
+  - pytest-clarity
+  - pytest-sugar
+  - pytest-xdist
+
+  # IDE deps
+  - jupyterlab
+  - jupyterlab-drawio
+  - jupyterlab-git
+  - jupyterlab-python-file
+  - jupyterlab-system-monitor
+  - jupyterlab_widgets
+  - ipywidgets
+  - nb_black
+
+  - pip
+  - pip:
+    - nbmake
+    - jupyterlab-spellchecker
+    - jupyterlab-unfold
+

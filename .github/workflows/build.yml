@@ -1,0 +1,73 @@
+name: Build and Update The Website
+
+on:
+  push:
+    branches:
+    - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash -l {0}
+    strategy:
+      matrix:
+        python-version: [3.8]
+        os: [ubuntu-latest]
+
+    steps:
+    - name: Cancel Previous Runs
+      uses: styfle/cancel-workflow-action@0.9.0
+      with:
+        access_token: ${{ github.token }}
+
+    - name: Checkout personal_website
+      uses: actions/checkout@v2
+      with:
+        path: main
+
+    - name: Checkout cheginit.github.io
+      uses: actions/checkout@v2
+      with:
+        repository: cheginit/cheginit.github.io
+        ref: gh-pages
+        path: pages
+        token: ${{ secrets.JPB_PUSH }}
+
+    - name: Set environment variables
+      run: |-
+        echo "CONDA_ENV_FILE=ci/requirements/environment.yml" >> $GITHUB_ENV
+        echo "PYTHON_VERSION=${{ matrix.python-version }}" >> $GITHUB_ENV
+
+    - name: Cache conda
+      uses: actions/cache@v2.1.6
+      with:
+        path: ~/conda_pkgs_dir
+        key:
+          ${{ runner.os }}-conda-py${{ matrix.python-version }}-${{
+          hashFiles('ci/requirements/environment.yml') }}
+    - name: Setup conda
+      uses: conda-incubator/setup-miniconda@v2.1.1
+      with:
+        channel-priority: strict
+        miniforge-version: latest
+        miniforge-variant: Mambaforge
+        environment-file: ci/requirements/environment.yml
+        python-version: ${{ matrix.python-version }}
+        activate-environment: gh-pages
+        use-mamba: true
+        use-only-tar-bz2: true
+
+    - name: Build the book
+      run: |-
+        cd main
+        jupyter-book build personal_website
+
+    - name: Import book content to gh-pages
+      run: |-
+        cd pages
+        ghp-import -n -p -f ../main/personal_website/_build/html
+        git add -A .
+        git commit --amend --no-edit
+        git push --force
