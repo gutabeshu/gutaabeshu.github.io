@@ -69,8 +69,8 @@ jobs:
       run: |-
         cd pages
         ghp-import -n -p -f ../main/personal_website/_build/html
-        git config --global user.name "gh-pages"
         git config --global user.email "bot@gh-pages.com"
+        git config --global user.name "gh-pages"
         git add .
-        git commit --amend --no-edit
+        git commit --amend --no-edit --reset-author
         git push --force
