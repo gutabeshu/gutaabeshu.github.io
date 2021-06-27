@@ -1,16 +1,27 @@
-name: gh-pages
+name: web
 channels:
   - conda-forge
   - nodefaults
 dependencies:
-  - python=3.8
-
-  - jupyter-book
-  - python-dateutil
+  - click
+  - docutils
+  - jsonschema
+  - jupytext
+  - linkify-it-py
+  - myst-nb
+  - pyyaml
+  - sphinx
+  - sphinx-comments
+  - sphinx-copybutton
+  - sphinx-external-toc
+  - sphinx-panels
+  - sphinx-thebe
+  - sphinx-book-theme
+  - sphinx-togglebutton
+  - sphinxcontrib-bibtex
 
   # dev deps
   - codespell
-  - pre-commit
   - psutil
   - pytest
   - pytest-clarity
@@ -25,6 +36,7 @@ dependencies:
 
   - pip
   - pip:
-    - nbmake
+    - jupyter-book
     - ghp-import
+    - nbmake
 
