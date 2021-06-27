@@ -3,10 +3,24 @@ channels:
   - conda-forge
   - nodefaults
 dependencies:
-  - python=3.8
+  - python>=3.8
 
-  - jupyter-book
-  - cookiecutter
+  - click
+  - docutils
+  - jsonschema
+  - jupytext
+  - linkify-it-py
+  - myst-nb
+  - pyyaml
+  - sphinx
+  - sphinx-comments
+  - sphinx-copybutton
+  - sphinx-external-toc
+  - sphinx-panels
+  - sphinx-thebe
+  - sphinx-book-theme
+  - sphinx-togglebutton
+  - sphinxcontrib-bibtex
 
   # dev deps
   - codespell
@@ -28,6 +42,7 @@ dependencies:
 
   - pip
   - pip:
+    - jupyter-book
     - nbmake
     - jupyterlab-spellchecker
     - jupyterlab-unfold
