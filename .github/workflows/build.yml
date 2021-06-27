@@ -46,14 +46,14 @@ jobs:
         path: ~/conda_pkgs_dir
         key:
           ${{ runner.os }}-conda-py${{ matrix.python-version }}-${{
-          hashFiles('ci/requirements/environment.yml') }}
+          hashFiles('main/ci/requirements/environment.yml') }}
     - name: Setup conda
       uses: conda-incubator/setup-miniconda@v2.1.1
       with:
         channel-priority: strict
         miniforge-version: latest
         miniforge-variant: Mambaforge
-        environment-file: ci/requirements/environment.yml
+        environment-file: main/ci/requirements/environment.yml
         python-version: ${{ matrix.python-version }}
         activate-environment: gh-pages
         use-mamba: true
