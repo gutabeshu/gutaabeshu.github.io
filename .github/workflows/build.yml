@@ -72,5 +72,5 @@ jobs:
         git config --global user.email "bot@gh-pages.com"
         git config --global user.name "gh-pages"
         git add .
-        git commit --amend --no-edit --reset-author
+        git commit --amend --no-edit --reset-author --allow-empty
         git push --force
