@@ -1,4 +1,4 @@
-name: web
+name: gh-pages
 channels:
   - conda-forge
   - nodefaults
