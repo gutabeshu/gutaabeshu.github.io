@@ -1,8 +1,0 @@
-format: jb-article
-root: intro
-sections:
-- file: projects
-- file: publications
-- file: til/README
-  sections:
-  - glob: til/*/*
