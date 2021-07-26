@@ -70,11 +70,8 @@ jobs:
         cd pages
         ghp-import -n -p -f ../main/personal_website/_build/html
         git status -sb
-        N_CHANGES=$(git status --porcelain=v1 2>/dev/null | wc -l)
-        if [[ $N_CHANGES -gt 0 ]]; then
-          git config --global user.email "bot@gh-pages.com"
-          git config --global user.name "gh-pages"
-          git add .
-          git commit -m "Update website from personal_website")
-          git push
-        fi
+        git config --global user.email "bot@gh-pages.com"
+        git config --global user.name "gh-pages"
+        git add .
+        git commit -m "Update website from personal_website")
+        git push
