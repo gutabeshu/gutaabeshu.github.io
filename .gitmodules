@@ -1,4 +1,4 @@
 [submodule "til"]
 	path = personal_website/til
 	url = git@github.com:cheginit/til.git
-  branch = main
+	branch = main
