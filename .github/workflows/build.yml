@@ -4,6 +4,7 @@ on:
   push:
     branches:
     - main
+  workflow_dispatch:
 
 jobs:
   build:
@@ -36,35 +37,28 @@ jobs:
         path: pages
         token: ${{ secrets.JPB_PUSH }}
 
-    - name: Set environment variables
-      run: |-
-        echo "CONDA_ENV_FILE=main/ci/requirements/environment.yml" >> $GITHUB_ENV
-        echo "PYTHON_VERSION=${{ matrix.python-version }}" >> $GITHUB_ENV
-
-    - name: Cache conda
-      uses: actions/cache@v2.1.6
+    - uses: actions/setup-python@v2
       with:
-        path: ~/conda_pkgs_dir
-        key:
-          ${{ runner.os }}-conda-py${{ matrix.python-version }}-${{
-          hashFiles('main/ci/requirements/environment.yml') }}
-    - name: Setup conda
-      uses: conda-incubator/setup-miniconda@v2.1.1
-      with:
-        channel-priority: strict
-        miniforge-version: latest
-        miniforge-variant: Mambaforge
-        environment-file: main/ci/requirements/environment.yml
-        python-version: ${{ matrix.python-version }}
-        activate-environment: gh-pages
-        use-mamba: true
-        use-only-tar-bz2: true
+        python-version: '3.9'
+        cache: 'pip'
+    - run: pip install -U jupyter-book ghp-import
 
     - name: Build the website
       run: |-
         cd main
+        git submodule update --init
+        git submodule update --recursive --remote --merge
         jupyter-book toc from-project personal_website > personal_website/_toc.yml
         jupyter-book build personal_website
+        git status -sb
+        N_CHANGES=$(git status --porcelain=v1 2>/dev/null | wc -l)
+        if [[ $N_CHANGES -gt 0 ]]; then
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "github-actions"
+          git add .
+          git commit -m "GHW: Fetch updates [skip ci]"
+          git push
+        fi
 
     - name: Import contents to gh-pages
       run: |-
@@ -73,9 +67,9 @@ jobs:
         git status -sb
         N_CHANGES=$(git status --porcelain=v1 2>/dev/null | wc -l)
         if [[ $N_CHANGES -gt 0 ]]; then
-          git config --global user.email "bot@gh-pages.com"
-          git config --global user.name "gh-pages"
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "github-actions"
           git add .
-          git commit -m "Update website from personal_website"
+          git commit -m "GHW: Fetch updates from cheginit/personal_website"
           git push
         fi
