@@ -63,6 +63,7 @@ jobs:
     - name: Build the website
       run: |-
         cd main
+        jupyter-book toc from-project personal_website > personal_website/_toc.yml
         jupyter-book build personal_website
 
     - name: Import contents to gh-pages
