@@ -40,7 +40,7 @@ jobs:
       with:
         python-version: '3.9'
         cache: 'pip'
-    - run: pip install -U jupyter-book ghp-import
+    - run: pip install -r requirements.txt
 
     - name: Build the website
       run: |-
