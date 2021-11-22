@@ -36,18 +36,15 @@ jobs:
         path: pages
         token: ${{ secrets.JPB_PUSH }}
 
-    - name: Install Python dependencies
-      uses: actions/setup-python@v2
+    - uses: actions/setup-python@v2
       with:
         python-version: '3.9'
         cache: 'pip'
-    - run: |-
-        cd main
-        pip install -r requirements.txt
 
     - name: Build the website
       run: |-
         cd main
+        pip install -r requirements.txt
         git submodule update --init
         git submodule update --recursive --remote --merge
         jupyter-book toc from-project personal_website > personal_website/_toc.yml
