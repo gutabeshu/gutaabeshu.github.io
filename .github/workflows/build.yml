@@ -27,7 +27,6 @@ jobs:
       uses: actions/checkout@v2
       with:
         path: main
-        submodules: recursive
 
     - name: Checkout cheginit.github.io
       uses: actions/checkout@v2
