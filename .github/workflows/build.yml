@@ -42,17 +42,33 @@ jobs:
         python-version: '3.9'
         cache: 'pip'
 
-    - name: Install dependencies
+    - name: Install Python dependencies
       run: |-
-        cd main
-        pip install -r requirements.txt
+        pip install -r main/requirements.txt
 
-    - name: Build the website
+    - name: Build the table of contents
       run: |-
         cd main
         git submodule update --init
         git submodule update --recursive --remote --merge
-        jupyter-book toc from-project personal_website > personal_website/_toc.yml
+        jupyter-book toc from-project -s til personal_website > personal_website/_toc.yml
+        sed -i '$ d' personal_website/_toc.yml
+        echo "- file: til/README" >> personal_website/_toc.yml
+        echo "  entries:" >> personal_website/_toc.yml
+        for f in $(ls -d1 personal_website/til/*/); do
+          section="$(basename $f)"
+          fname="personal_website/_toc_${section}.yml"
+          jupyter-book toc from-project -i README $f > "$fname"
+          sed -i 's/- file: /    - file: til\/'"$section"'\//g' "$fname"
+          sed -i 's/root: /  - file: til\/'"$section"'\//g' "$fname"
+          sed -i 's/entries:/    entries:/g' "$fname"
+          cat "$fname" >> personal_website/_toc.yml
+          rm "$fname"
+        done
+
+    - name: Build the website
+      run: |-
+        cd main
         jupyter-book build personal_website
         git status -sb
         N_CHANGES=$(git status --porcelain=v1 2>/dev/null | wc -l)
