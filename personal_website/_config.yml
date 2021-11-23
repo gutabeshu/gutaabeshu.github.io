@@ -6,9 +6,6 @@ logo: logo.png
 execute:
   execute_notebooks: off
 
-parse:
-  myst_extended_syntax: true
-
 latex:
   latex_documents:
     targetname: book.tex
