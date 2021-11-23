@@ -4,12 +4,18 @@ entries:
 - file: publications
 - file: til/README
   entries:
-  - file: til/github_actions/mamba
-  - file: til/jupyter/app
+  - file: til/github_actions/README
     entries:
+    - file: til/github_actions/mamba
+
+  - file: til/jupyter/README
+    entries:
+    - file: til/jupyter/app
     - file: til/jupyter/remote
-  - file: til/python/agu_abstract
+
+  - file: til/python/README
     entries:
+    - file: til/python/agu_abstract
     - file: til/python/autoapi
     - file: til/python/barplot
     - file: til/python/clipboard
@@ -29,5 +35,8 @@ entries:
     - file: til/python/run_async_func
     - file: til/python/timer
     - file: til/python/xlm_parse
-  - file: til/web_service/netrc
+
+  - file: til/web_service/README
+    entries:
+    - file: til/web_service/netrc
 
