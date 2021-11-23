@@ -23,18 +23,8 @@ jobs:
       with:
         access_token: ${{ github.token }}
 
-    - name: Checkout personal_website
+    - name: Checkout the repo
       uses: actions/checkout@v2
-      with:
-        path: main
-
-    - name: Checkout cheginit.github.io
-      uses: actions/checkout@v2
-      with:
-        repository: cheginit/cheginit.github.io
-        ref: gh-pages
-        path: pages
-        token: ${{ secrets.JPB_PUSH }}
 
     - name: Create a Python environment
       uses: actions/setup-python@v2
@@ -44,11 +34,10 @@ jobs:
 
     - name: Install Python dependencies
       run: |-
-        pip install -r main/requirements.txt
+        pip install -r requirements.txt
 
     - name: Build the table of contents
       run: |-
-        cd main
         git submodule update --init
         git submodule update --recursive --remote --merge
         jupyter-book toc from-project -s til personal_website > personal_website/_toc.yml
@@ -68,7 +57,6 @@ jobs:
 
     - name: Build the website
       run: |-
-        cd main
         jupyter-book build personal_website
         git status -sb
         N_CHANGES=$(git status --porcelain=v1 2>/dev/null | wc -l)
@@ -85,5 +73,5 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.JPB_PUSH }}
-        publish_dir: ../main/personal_website/_build/html
-        destination_dir: pages
+        external_repository: cheginit/cheginit.github.io
+        publish_dir: personal_website/_build/html
