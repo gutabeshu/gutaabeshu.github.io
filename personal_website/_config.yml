@@ -1,10 +1,13 @@
-title                       : Taher Chegini
-author                      : Taher Chegini
-copyright                   : "2021"
-logo                        : logo.png
+title: Taher Chegini
+author: Taher Chegini
+copyright: "2021"
+logo: logo.png
 
 execute:
-  execute_notebooks: force
+  execute_notebooks: off
+
+parse:
+  myst_extended_syntax: true
 
 latex:
   latex_documents:
