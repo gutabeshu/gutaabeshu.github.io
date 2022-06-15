@@ -6,30 +6,25 @@ on:
     - main
   workflow_dispatch:
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
     defaults:
       run:
         shell: bash -l {0}
-    strategy:
-      matrix:
-        python-version: [3.9]
-        os: [ubuntu-latest]
 
     steps:
-    - name: Cancel Previous Runs
-      uses: styfle/cancel-workflow-action@0.9.1
-      with:
-        access_token: ${{ github.token }}
-
     - name: Checkout the repo
       uses: actions/checkout@v3
 
     - name: Create a Python environment
       uses: actions/setup-python@v4
       with:
-        python-version: '3.9'
+        python-version: '3.10'
         cache: 'pip'
 
     - name: Install Python dependencies
