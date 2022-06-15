@@ -1,23 +1,18 @@
 title: Taher Chegini
 author: Taher Chegini
-copyright: "2021"
-logo: logo.png
+copyright: "2022"
+logo: images/me.png
 
 execute:
   execute_notebooks: off
-
-latex:
-  latex_documents:
-    targetname: book.tex
 
 bibtex_bibfiles:
   - references.bib
 
 repository:
   url: https://github.com/cheginit/personal_website
-  path_to_book: docs
+  path_to_book: personal_website
   branch: main
 
 html:
-  use_issues_button: true
   use_repository_button: true
