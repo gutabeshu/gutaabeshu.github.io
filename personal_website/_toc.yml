@@ -1,9 +1,8 @@
-root: intro
+root: cv
 entries:
+- file: intro
 - file: projects
 - file: publications
-- file: cv
-
 - file: til/README
   entries:
   - file: til/github_actions/README
