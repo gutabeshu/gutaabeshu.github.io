@@ -58,14 +58,16 @@ $^\text{P}$: *Proficient*, $^\text{E}$: *Experienced*
 - *American Association for the Advancement of Science(AAAS), Member*
 - *Ethiopian Geoscience Union International (ETGUI), Member*
 
-## Awards
+## Honor & Awards
+-	*Graduate Student Teaching Award for Merit (2018) from Montana State University, North American Colleges and Teachers of Agriculture (NACTA)* 
+-	*WaterSmart Innovations and Exposition Travel Scholarship(2017), Las Vegas, NV*
+-	*Oeuvre St Justin Scholarship (Sep. 2014 - Sep. 2015) for MAS study at ETH Zurich*
+-	*Honor award from Ethiopian Institute of Water Resources, Addis Ababa University, for outstanding achievement during M.S. study (Jul. 2013)*
+-	*USAID-HED Fellowship award (Jun. 2011 – Jul. 2013) for M.S. study*
 
-- Summer 2022: **2021 ASCE Outstanding Reviewer** for the *Journal of Hydrologic Engineering*
-- Spring 2021: **Graduate Visiting Program**, *National Center for Atmospheric Research*, Boulder, Colorado
-- Summer 2019: **Summer Institute 2019**, *National Water Center*, Tuscaloosa, Alabama
-- Summer 2019: **Workshop: Introduction to WRF-Hydro**, *National Center for Atmospheric Research (NCAR)*, Boulder, Colorado
-- Summer 2019: **Workshop: Critical Timescales of Hydrologic Transport**, *Berkeley Institute for Data Science*, Berkeley, California
-- Summer 2018: **Best Graduate Paper Student**, *World Environmental & Water Resources (EWRI) Congress 2018*, Minneapolis, Minnesota
-- 2017--2018: **CACDS Fellowship**, *Center for Advanced Computing and Data Science*, University of Houston, TX
-- Summer 2017: **Workshop: Applied CFD with OpenFOAM**, *CFD-direct: The Architects of OpenFOAM*, Houston, Texas
-- Summer 2015: **Summer School: Water and Human Health in Urban Systems**, *University of Duisburg-Essen*, Essen, Germany
+
+ 
+
+
+
+
