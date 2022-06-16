@@ -2,16 +2,16 @@
 
 ## Peer-reviewed Journals
 - **Published**
-- *Li, H.-Y., Tan, Z., Ma, H., Zhu, Z., Abeshu, G.W, Zhu, S., Cohen, S., Zhou, T., Xu, D., and Leung, L.-Y. R.: A new large-scale suspended sediment model and its application over the United States, Hydrol. Earth Syst. Sci., https://doi.org/10.5194/hess-2021-491, 2022.*
-- *Abeshu, G. W., Li, H.-Y., Zhu, Z., Tan, Z., and Leung, L. R.: Median bed-material sediment particle size across rivers in the contiguous U.S., Earth Syst. Sci. Data, https://doi.org/10.5194/essd-2021-201, 2022.*
-- *Abeshu, G. W., & Li, H.-Y. (2021). Horton Index: Conceptual framework for exploring multi-scale links between catchment water balance and vegetation dynamics. Water Resources Research, 57, e2020WR029343. https://doi.org/10.1029/2020WR029343*
-- *Golaz, J. C., Caldwell, P. M., Van Roekel, L. P., Petersen, M. R., Tang, Q., Wolfe, J. D., Abeshu, G., Anantharaj, V., Asay-Davis, X. S., Bader, D. C., Baldwin, S. A., Bisht, G., Bogenschutz, P. A., Branstetter, M., Brunke, M. A., Brus, S. R., Burrows, S. M., Cameron-Smith, P. J., Donahue, A. S., ... Zhu, Q. (2019). The DOE E3SM Coupled Model Version 1: Overview and Evaluation at Standard Resolution. Journal of Advances in Modeling Earth Systems, 11(7), 2089-2129. https://doi.org/10.1029/2018MS001603 *
-- *J.L. Awange, M. Gebremichael, E. Forootan, G. Wakbulcho, R. Anyah, V.G. Ferreiraf, T. Alemayehu, 2014. Characterization of Ethiopian mega hydrogeological regimes using GRACE, TRMM, and GLDAS datasets, Advances in Water Resources, doi: https://doi.org/10.1016/j.advwatres.2014.07.012*
+ - *Li, H.-Y., Tan, Z., Ma, H., Zhu, Z., Abeshu, G.W, Zhu, S., Cohen, S., Zhou, T., Xu, D., and Leung, L.-Y. R.: A new large-scale suspended sediment model and its application over the United States, Hydrol. Earth Syst. Sci., https://doi.org/10.5194/hess-2021-491, 2022.*
+ - *Abeshu, G. W., Li, H.-Y., Zhu, Z., Tan, Z., and Leung, L. R.: Median bed-material sediment particle size across rivers in the contiguous U.S., Earth Syst. Sci. Data, https://doi.org/10.5194/essd-2021-201, 2022.*
+ - *Abeshu, G. W., & Li, H.-Y. (2021). Horton Index: Conceptual framework for exploring multi-scale links between catchment water balance and vegetation dynamics. Water Resources Research, 57, e2020WR029343. https://doi.org/10.1029/2020WR029343*
+ - *Golaz, J. C., Caldwell, P. M., Van Roekel, L. P., Petersen, M. R., Tang, Q., Wolfe, J. D., Abeshu, G., Anantharaj, V., Asay-Davis, X. S., Bader, D. C., Baldwin, S. A., Bisht, G., Bogenschutz, P. A., Branstetter, M., Brunke, M. A., Brus, S. R., Burrows, S. M., Cameron-Smith, P. J., Donahue, A. S., ... Zhu, Q. (2019). The DOE E3SM Coupled Model Version 1: Overview and Evaluation at Standard Resolution. Journal of Advances in Modeling Earth Systems, 11(7), 2089-2129. https://doi.org/10.1029/2018MS001603 *
+ - *J.L. Awange, M. Gebremichael, E. Forootan, G. Wakbulcho, R. Anyah, V.G. Ferreiraf, T. Alemayehu, 2014. Characterization of Ethiopian mega hydrogeological regimes using GRACE, TRMM, and GLDAS datasets, Advances in Water Resources, doi: https://doi.org/10.1016/j.advwatres.2014.07.012*
 
 - **Accepted**
-- *Kreibich, H., Van Loon, A. F., Schröter K., Ward Ph., Mazzoleni M., Sairam N., Abeshu G.W., Agafonova S., AghaKouchak  A., et al. (2022). The challenge of unprecedented floods and droughts in risk management. Nature. *
+ - *Kreibich, H., Van Loon, A. F., Schröter K., Ward Ph., Mazzoleni M., Sairam N., Abeshu G.W., Agafonova S., AghaKouchak  A., et al. (2022). The challenge of unprecedented floods and droughts in risk management. Nature*
 - **Under Review**
-- *Abeshu, G.W., Tian F., Hu H., Zhuang Y., Hejazi M., Turner S., Wild T., Zhao M., Chowdhury K., and Vernon C., (2022)A new representation of water management for global hydrological models. Journal of Hydrology*
+ - *Abeshu, G.W., Tian F., Hu H., Zhuang Y., Hejazi M., Turner S., Wild T., Zhao M., Chowdhury K., and Vernon C., (2022)A new representation of water management for global hydrological models. Journal of Hydrology*
 
 
 ## Conference Presentations
