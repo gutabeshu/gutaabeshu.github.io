@@ -36,15 +36,15 @@ $^\text{P}$: *Proficient*, $^\text{E}$: *Experienced*
 
 
 
-## Invited Talks
+## Conference Presentations
+- *Abeshu, G. W and Li, H. Y, (2021), A Unified Functional Relationship Between Catchment Water Balance and Vegetation Productivity, AGU Fall Meeting 2021 (Oral)*
+- *Abeshu, G. W., HY Li., MI Hejazi, TB Wild, CR Vernon, and Zhao M., (2021), A new global water management module: Distributed vs. Lumped representations, AGU Fall Meeting 2021 (Poster)*
+- *Abeshu, G. W and Li, H. Y, (2020), Analytical Expression of Horton Index Using Generalized Proportionality Hypothesis, AGU Fall Meeting 2020 (Oral)*
+- *Abeshu, G. W and Li, H. Y, (2019), Catchments-scale vegetation water use efficiency: patterns, processes, and implications, AGU Fall Meeting 2019 (Poster)*
+- *Abeshu, G. W and Li, H. Y – (2018), Drought propagation through natural-human systems: the nonlinear filtering effects, AGU Fall Meeting 2018 (Poster)*
+- *Abeshu, G. W., Li, H. Y., Yigzaw, W., Hejazi, M. I., Tang, J. and Demissie, Y., Reservoir-induced Alterations in Flood Seasonality: Patterns, Processes, and Implications, AGU Fall Meeting 2017 (Poster)*
+- *Abeshu, G.W, and Li, H. Y (2017), Catchment-scale water carbon coupling across the contiguous United States: A data-based analysis, American Water Resources Association Montana Section Conference, October 18 – October 20, 2017, Helena, Montana(Oral)*
 
-- June 2022: *Emphasizing F, I and R in FAIR hydrology: Bottlenecks and solutions to making hydrologic science more reproducible*, **Frontiers in Hydrology**, Puerto Rico, US
-
-- June 2021: *USGS Hydro Network Linked Data Index Tools*, [Video](https://youtu.be/Wz8Y5G9oy-M): **ESIP IT&I**, Virtual
-
-- May 2021: *Accessing Hydrology and Climatology Database Using Web Services Through Python*, [Video](https://discourse.pangeo.io/t/may-26-2021-accessing-hydrology-and-climatology-database-using-web-services-through-python/1521): **Pangeo Showcase**, Virtual
-
-- Sep. 2020: *Flow Accumulation Based on Vector Flowlines from NHDPlus Database*, [**Water Hack Week 2020**](https://www.cuahsi.org/education/cyberseminars/waterhackweek-cyberseminar-series/): CUAHSI and University of Washington, Virtual
 
 ## Awards
 
