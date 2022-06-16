@@ -24,7 +24,7 @@
 
 $^\text{P}$: *Proficient*, $^\text{E}$: *Experienced*
 
-## RESEARCH EXPERIENCE 
+## Research Exprience 
 - **Graduate Research Assistant, Department of Civil and Environmental Engineering, University of Houston, USA                                 (Aug. 2018 – May 2022)**
   - **Theoretical analysis**: Developed a new conceptual model for competition between vegetation and subsurface runoff  and a  functional relationship between water        balance and vegetation productivity
   - **Modeling**: Developed lumped/distributed water management modules for Xanthos, MOSART-sediment input datasets for the contiguous US
@@ -45,7 +45,7 @@ $^\text{P}$: *Proficient*, $^\text{E}$: *Experienced*
   - *Teaching: Hydraulics, Engineering Hydrology, Hydraulic Structures, Water resource systems*
   - *Academic Mentorship: Supervised 6 Bachelor Projects (at least 7 Students per group)*
 
-## PROFESSIONAL ACTIVITIES
+## Professional Activities
 - *Primary Convener, Advances in Understanding Climate, Vegetation, Soil, Topographic, Precipitation Processes, and Their Subgrid-Scale Parameterization at the Watershed and Larger Scales, AGU Fall Meeting 2021*
 - *Session chair, H104, Soil, Plant, and Climate Interactions in the Critical Zone under Varying Land Use, Ecosystem Management, and Climatic Forcing III eLightning, AGU Fall Meeting 2020*
 - *Session chair, H130, Human Influence on the Regional/Natural Hydroclimate, AGU Fall Meeting 2019*
