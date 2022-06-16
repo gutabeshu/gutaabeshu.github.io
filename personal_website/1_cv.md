@@ -21,7 +21,7 @@
 
 - **Programming**: Python$^\text{P}$, MATLAB$^\text{P}$, High Performance Computing $^\text{E}$, 
 Git $^\text{E}$, Shell Scripting $^\text{E}$
-- **Software**: ArCGIS$^\text{E}$, QGIS$^\text{E}$
+- **Software**: Python$^\text{P}$, Python$^\text{P}$,
 
 $^\text{P}$: *Proficient*, $^\text{E}$: *Experienced*
 
