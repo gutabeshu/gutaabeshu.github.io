@@ -30,7 +30,7 @@ $^\text{P}$: *Proficient*, $^\text{E}$: *Experienced*
   - **Modeling**: Developed lumped/distributed water management modules for Xanthos, MOSART-sediment input datasets for the contiguous US
   - **Machine learning**: Developed a machine learning approach for predicting median bed sediment.
 
-- **Graduate Research & Teaching Assistant, Department of Land Resources and Environmental Sciences, Montana State University, USA              (Jan. 2017-Aug. 2018)**
+- **Graduate Research Assistant, Department of Land Resources and Environmental Sciences, Montana State University, USA              (Jan. 2017-Aug. 2018)**
   - **Theoretical analysis**: Analyzed underlying hydrological process and mechanisms for hysteresis patterns emerging between catchment wetting and GPP, Early               developments of Horton index conceptual method and a supply-based vegetation water use efficiency at catchment scale
   - **Modeling**: Updated MOSART-water global flow directions for the Caspian Sea and Gulf of Mexico for use in the DOE E3SM coupled model, developed a procedure for  global reservoirs georeferencing and downstream dependent grid delineation 
 
