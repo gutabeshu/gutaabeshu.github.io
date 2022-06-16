@@ -19,7 +19,7 @@
 
 ## Technical Skills
 
-- **Programming**: Python$^\text{P}$, MATLAB$^\text{P}$, High Performance Computing $^\text{E}$ , High Performance Computing $^\text{E}$ 
+- **Programming**: Python$^\text{P}$, MATLAB$^\text{P}$, High Performance Computing $^\text{E}$, High Performance Computing $^\text{E}$ 
 - **Software**: ArcGIS$^\text{P}$, QGIS $^\text{P}$
 
 $^\text{P}$: *Proficient*, $^\text{E}$: *Experienced*
