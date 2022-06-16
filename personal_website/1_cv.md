@@ -5,16 +5,15 @@
 - **University of Houston, Houston, TX, USA                                                                                  (Aug. 2018 – May. 2022)**
   - **Ph.D. in Civil Engineering (Hydrosystems)**
   - Dissertation: *Understanding catchment ecohydrological processes and their interactions across multiple spatiotemporal scales: A Darwinian Perspective*
-- **Montana State University, Bozeman, MT, USA                                                                               (Jan. 2017 –Aug. 2018)**
-  - **Ph.D. in Land Resources and Environmental Sciences (transferred to University of Houston)**
+- **Montana State University, Bozeman, MT, USA (transferred to University of Houston)                                        (Jan. 2017 –Aug. 2018)**
 - **Swiss Federal Institute of Technology (ETH Zurich), Zürich, Switzerland                                                  (Sep. 2014 – Sep. 2015)**
   - **Master of Advanced Studies in Sustainable Water Resources** 
   - Thesis: *Remote Sensing Based Evaluation of Hydrogeological Surplus in the Drought Prone Regions of East Africa*
 - **Addis Ababa University, Addis Ababa, Ethiopia                                                                            (Jun. 2011 – Jul. 2013)**
-  - **M.S. in Water Resources Engineering and Management**
+  - **MSc. in Water Resources Engineering and Management**
   - Thesis: *Hydrological and Hydrogeological Characterizations and Classifications using Remote Sensing Datasets and Models*
 - **Arba Minch University, Arba Minch, Ethiopia                                                                              (Sep. 2005 – Jun. 2009)**
-  - **B.S. in Hydraulic and Water Resources Engineering**
+  - **BSc. in Hydraulic and Water Resources Engineering**
   - Thesis: *Developing Rainfall-Runoff Model for Upper Omo-Ghibe River Basin and Understanding of the Cause of 2006 Flood at Omorate, Omo-Ghibe Basin, Ethiopia*
 
 ## Technical Skills
