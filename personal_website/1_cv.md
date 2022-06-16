@@ -26,10 +26,10 @@ $^\text{P}$: *Proficient*, $^\text{E}$: *Experienced*
 
 ## RESEARCH EXPERIENCE 
 - **Graduate Research Assistant                                                                                                                (Aug. 2018 – May 2022)**
-- *Department of Civil and Environmental Engineering, University of Houston, USA 
- - Theoretical analysis: Developed a new conceptual model for competition between vegetation and subsurface runoff  and a  functional relationship between water balance and vegetation productivity
- - Modeling: Developed lumped/distributed water management modules for Xanthos, MOSART-sediment input datasets for the contiguous US
- - Machine learning: Developed a machine learning approach for predicting median bed sediment.
+- *Department of Civil and Environmental Engineering, University of Houston, USA* 
+  - Theoretical analysis: Developed a new conceptual model for competition between vegetation and subsurface runoff  and a  functional relationship between water balance and vegetation productivity
+  - Modeling: Developed lumped/distributed water management modules for Xanthos, MOSART-sediment input datasets for the contiguous US
+  - Machine learning: Developed a machine learning approach for predicting median bed sediment.
 
 - **Graduate Research & Teaching Assistant                                                                                           (Jan. 2017-Aug. 2018)**
 - *Department of Land Resources and Environmental Sciences, Montana State University, USA 
