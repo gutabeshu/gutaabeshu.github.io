@@ -19,9 +19,8 @@
 
 ## Technical Skills
 
-- **Programming**: Python$^\text{P}$, MATLAB$^\text{P}$, High Performance Computing $^\text{E}$, 
-Git $^\text{E}$, Shell Scripting $^\text{E}$
-- **Software**: Python$^\text{P}$, Python$^\text{P}$,
+- **Programming**: Python$^\text{P}$, MATLAB$^\text{P}$, High Performance Computing $^\text{E}$, Git $^\text{E}$, Shell Scripting $^\text{E}$
+- **Software**: Python$^\text{P}$, MATLAB$^\text{P}$, High Performance Computing $^\text{E}$
 
 $^\text{P}$: *Proficient*, $^\text{E}$: *Experienced*
 
