@@ -46,6 +46,18 @@ $^\text{P}$: *Proficient*, $^\text{E}$: *Experienced*
 - *Abeshu, G.W, and Li, H. Y (2017), Catchment-scale water carbon coupling across the contiguous United States: A data-based analysis, American Water Resources Association Montana Section Conference, October 18 – October 20, 2017, Helena, Montana(Oral)*
 
 
+
+## PROFESSIONAL ACTIVITIES
+- *Primary Convener, Advances in Understanding Climate, Vegetation, Soil, Topographic, Precipitation Processes, and Their Subgrid-Scale Parameterization at the Watershed and Larger Scales, AGU Fall Meeting 2021*
+- *Session chair, H104, Soil, Plant, and Climate Interactions in the Critical Zone under Varying Land Use, Ecosystem Management, and Climatic Forcing III eLightning, AGU Fall Meeting 2020*
+- *Session chair, H130, Human Influence on the Regional/Natural Hydroclimate, AGU Fall Meeting 2019*
+- *Session chair, H221, Water–Soil–Vegetation Dynamic Nexuses and Equilibriums in Changing Climate, AGU Fall Meeting 2018*
+- *Referee: Water Resources Research(2), Journal of Hydrology(3), Stochastic Environmental Research and Risk Assessment(4), Journal of Hydrologic Engineering (1)*
+- *American Geophysical Union (AGU), Member*
+- *European Geophysical Union (AGU), Member*
+- *American Association for the Advancement of Science(AAAS), Member*
+- *Ethiopian Geoscience Union International (ETGUI), Member*
+
 ## Awards
 
 - Summer 2022: **2021 ASCE Outstanding Reviewer** for the *Journal of Hydrologic Engineering*
