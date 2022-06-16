@@ -35,18 +35,6 @@ $^\text{P}$: *Proficient*, $^\text{E}$: *Experienced*
   - **Modeling**: Updated MOSART-water global flow directions for the Caspian Sea and Gulf of Mexico for use in the DOE E3SM coupled model, developed a procedure for  global reservoirs georeferencing and downstream dependent grid delineation 
 
 
-
-## Conference Presentations
-- *Abeshu, G. W and Li, H. Y, (2021), A Unified Functional Relationship Between Catchment Water Balance and Vegetation Productivity, AGU Fall Meeting 2021 (Oral)*
-- *Abeshu, G. W., HY Li., MI Hejazi, TB Wild, CR Vernon, and Zhao M., (2021), A new global water management module: Distributed vs. Lumped representations, AGU Fall Meeting 2021 (Poster)*
-- *Abeshu, G. W and Li, H. Y, (2020), Analytical Expression of Horton Index Using Generalized Proportionality Hypothesis, AGU Fall Meeting 2020 (Oral)*
-- *Abeshu, G. W and Li, H. Y, (2019), Catchments-scale vegetation water use efficiency: patterns, processes, and implications, AGU Fall Meeting 2019 (Poster)*
-- *Abeshu, G. W and Li, H. Y – (2018), Drought propagation through natural-human systems: the nonlinear filtering effects, AGU Fall Meeting 2018 (Poster)*
-- *Abeshu, G. W., Li, H. Y., Yigzaw, W., Hejazi, M. I., Tang, J. and Demissie, Y., Reservoir-induced Alterations in Flood Seasonality: Patterns, Processes, and Implications, AGU Fall Meeting 2017 (Poster)*
-- *Abeshu, G.W, and Li, H. Y (2017), Catchment-scale water carbon coupling across the contiguous United States: A data-based analysis, American Water Resources Association Montana Section Conference, October 18 – October 20, 2017, Helena, Montana(Oral)*
-
-
-
 ## PROFESSIONAL ACTIVITIES
 - *Primary Convener, Advances in Understanding Climate, Vegetation, Soil, Topographic, Precipitation Processes, and Their Subgrid-Scale Parameterization at the Watershed and Larger Scales, AGU Fall Meeting 2021*
 - *Session chair, H104, Soil, Plant, and Climate Interactions in the Critical Zone under Varying Land Use, Ecosystem Management, and Climatic Forcing III eLightning, AGU Fall Meeting 2020*
