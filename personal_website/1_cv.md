@@ -19,7 +19,7 @@
 
 ## Technical Skills
 
-- **Programming**: Python$^\text{P}$, MATLAB$^\text{P}$, High Performance Computing$^\text{E}$, Git$^\text{E}$, Shell Scripting$^\text{E}$
+- **Programming**: Python$^\text{P}$, MATLAB$^\text{P}$, High Performance Computing$^\text{E}$, Git$^\text{E}$, Shell Scripting$^\text{E}$**
 - **Software**: E3SM$^\text{E}$, WRF-Hydro$^\text{E}$, HEC-HMS$^\text{E}$, OpenFOAM$^\text{E}$, Paraview$^\text{P}$, LaTeX$^\text{E}$, SWAT$^\text{E}$, Blender$^\text{E}$
 
 $^\text{P}$: *Proficient*, $^\text{E}$: *Experienced*
