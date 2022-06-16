@@ -34,6 +34,16 @@ $^\text{P}$: *Proficient*, $^\text{E}$: *Experienced*
   - **Theoretical analysis**: Analyzed underlying hydrological process and mechanisms for hysteresis patterns emerging between catchment wetting and GPP, Early               developments of Horton index conceptual method and a supply-based vegetation water use efficiency at catchment scale
   - **Modeling**: Updated MOSART-water global flow directions for the Caspian Sea and Gulf of Mexico for use in the DOE E3SM coupled model, developed a procedure for  global reservoirs georeferencing and downstream dependent grid delineation 
 
+## Teaching Exprience
+- **Guest lecture : University of Houston, Houston, TX, USA**
+  - *Hydrology (2020, 2021)*
+  - *Watershed Hydrology & Modeling (2019, 2020)*
+  - *Global Climate: Physical Models (2020)*
+- **Teaching Assistant: Montana State University, Bozeman, MT, USA** 
+  - *Developed lab teaching material and taught lab for Watershed Analysis (2017, 2018)*
+- **Assistant Lecturer / Lecturer : Department of Hydraulic and Water Resources Engineering, Arba Minch University, Ethiopia  (Sep. 2009 – Dec. 2016)**
+  - *Teaching: Hydraulics, Engineering Hydrology, Hydraulic Structures, Water resource systems*
+  - *Academic Mentorship: Supervised 6 Bachelor Projects (at least 7 Students per group)*
 
 ## PROFESSIONAL ACTIVITIES
 - *Primary Convener, Advances in Understanding Climate, Vegetation, Soil, Topographic, Precipitation Processes, and Their Subgrid-Scale Parameterization at the Watershed and Larger Scales, AGU Fall Meeting 2021*
