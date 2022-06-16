@@ -2,7 +2,7 @@
 
 ## Education
 
-- **University of Houston, Houston, TX, USA                                                                                  Aug. 2018 – May. 2022**
+- **University of Houston, Houston, TX, USA                                                                                  (Aug. 2018 – May. 2022)**
   - **Ph.D. in Civil Engineering (Hydrosystems)**
   - Dissertation: *Understanding catchment ecohydrological processes and their interactions across multiple spatiotemporal scales: A Darwinian Perspective*
 - **Montana State University, Bozeman, MT, USA                                                                               (Jan. 2017 –Aug. 2018)**
@@ -19,7 +19,7 @@
 
 ## Technical Skills
 
-- **Programming**: Python$^\text{P}$, Fortran$^\text{P}$, High Performance Computing$^\text{P}$, (C)Make$^\text{E}$, Git$^\text{P}$, Shell Scripting$^\text{P}$, Continuous Integration and Delivery$^\text{P}$
+- **Programming**: Python$^\text{P}$, MATLAB$^\text{P}$, High Performance Computing$^\text{E}$, Git$^\text{E}$, Shell Scripting$^\text{E}$
 - **Software**: E3SM$^\text{E}$, WRF-Hydro$^\text{E}$, HEC-HMS$^\text{E}$, OpenFOAM$^\text{E}$, Paraview$^\text{P}$, LaTeX$^\text{E}$, SWAT$^\text{E}$, Blender$^\text{E}$
 
 $^\text{P}$: *Proficient*, $^\text{E}$: *Experienced*
