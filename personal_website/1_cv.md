@@ -24,18 +24,19 @@
 
 $^\text{P}$: *Proficient*, $^\text{E}$: *Experienced*
 
-## Academic Experiences
+## RESEARCH EXPERIENCE 
+-**Graduate Research Assistant                                                                                                                (Aug. 2018 – May 2022)*
+-*Department of Civil and Environmental Engineering, University of Houston, USA 
+ - Theoretical analysis: Developed a new conceptual model for competition between vegetation and subsurface runoff  and a  functional relationship between water balance and vegetation productivity
+ - Modeling: Developed lumped/distributed water management modules for Xanthos, MOSART-sediment input datasets for the contiguous US
+ - Machine learning: Developed a machine learning approach for predicting median bed sediment.
 
-- 2017-Present: **Research Assistant**, University of Houston, Houston, TX
-  - Developed [HyRiver](https://hyriver.readthedocs.io): An open-source Python software stack, for accessing hydroclimate data through web services with over 230K installations
-  - Initiated and taught three two-day workshops, titled [CFD through OpenFOAM](https://github.com/cheginit/UHWorkshop) at the Center for Advanced Computing and Data Science with 52 participants including faculties and students
-  - Mentored two undergraduate students regarding research and career opportunities in the field of hydrology
+-**Graduate Research & Teaching Assistant                                                                                           (Jan. 2017-Aug. 2018)*
+-*Department of Land Resources and Environmental Sciences, Montana State University, USA 
+ -Theoretical analysis: Analyzed underlying hydrological process and mechanisms for hysteresis patterns emerging between catchment wetting and GPP, Early developments of Horton index conceptual method and a supply-based vegetation water use efficiency at catchment scale
+ -Modeling: Updated MOSART-water global flow directions for the Caspian Sea and Gulf of Mexico for use in the DOE E3SM coupled model, developed a procedure for  global reservoirs georeferencing and downstream dependent grid delineation 
 
-- 2014-2016, **Full Time Instructor**, Khazar University, Baku, Azerbaijan
-  - Liaised with coordinators from 14 European and non-European universities to coordinate the *Development of Training Network for Improving Education in Energy Efficiency* project, funded under an EU program called Trans-European Mobility Programme for University Studies (TEMPUS), with a budget of €1.4M
-  - Served in the curriculum development committee for the Civil Engineering Department
-  - Manager of the Civil Engineering Laboratory
-  - Organized four national Spaghetti Bridge Competitions among undergraduate students across Azerbaijan
+
 
 ## Invited Talks
 
