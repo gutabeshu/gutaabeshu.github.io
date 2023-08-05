@@ -1,5 +1,6 @@
 # Projects
 
-## Ongoing Project
+## Global Lake Water Balance Model
 
-- Global lake modeling
+**Abstract:**  
+Lakes, crucial components of the Earth's hydrosphere, maintain complex interactions with the atmosphere, biosphere, and anthroposphere. Their roles and dynamics are critical to understanding water resource management and climate change impact assessments comprehensively. However, many global hydrological models disregard significant lake elements such as surface area dynamics, impacts of smaller lakes with sizable socio-economic effects, and critical surface phenomena like snow accumulation and ice formation. These omissions lead to a significant knowledge gap in our understanding of the Earth's water cycle and the potential implications of climate change. To address these neglected aspects, we have developed an innovative global lake water balance model representing over 1.4 million lakes. This model aims to enhance our understanding of the global water cycle and the impact of climate change on natural water storage. The model has been integrated with Xanthos, a global hydrological model, to showcase its compatibility and adaptability to established models, thereby emphasizing its relevance and applicability in broader hydrological modeling contexts. Furthermore, this modeling experiment serves as a valuable tool in advancing our understanding of the multifaceted impacts of natural and human factors on the dynamics of natural water storage, across local to global scales.
