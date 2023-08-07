@@ -1,6 +1,6 @@
-title: Taher Chegini
-author: Taher Chegini
-copyright: "2022"
+title: Guta Abeshu
+author: Guta Abeshu
+copyright: "2023"
 logo: images/me.png
 
 execute:
@@ -10,7 +10,7 @@ bibtex_bibfiles:
   - references.bib
 
 repository:
-  url: https://github.com/cheginit/personal_website
+  url: https://github.com/gutabeshu/personal_website
   path_to_book: personal_website
   branch: main
 
