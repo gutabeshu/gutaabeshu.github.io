@@ -29,6 +29,7 @@ entries:
     - file: til/python/html_file
     - file: til/python/logging
     - file: til/python/miniforge
+    - file: til/python/newton
     - file: til/python/nhdplus
     - file: til/python/none
     - file: til/python/parallel
